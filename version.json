@@ -1,5 +1,5 @@
 {
-    "version": "1.1.0",
+    "version": "1.0.0",
     "release_date": {
         "day": 21,
         "month": 12,
@@ -11,5 +11,5 @@
         "Updated language support for Chinese."
     ],
     "download_link": "https://keymaster.fivem.net/asset-grants",
-    "changelog_link": "https://github.com/AlexRXWindy/alx_callsign/changelog"
+    "changelog_link": "https://alx-scripts.gitbook.io/alx-scripts"
 }
