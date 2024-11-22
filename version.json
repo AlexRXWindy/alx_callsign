@@ -5,5 +5,11 @@
         "month": 11,
         "year": 2024
     },
-    "notes": "Added new features and fixed minor bugs."
+    "notes": [
+        "Bug fixes in the menu.",
+        "Improved framework detection.",
+        "Updated language support for Chinese."
+    ],
+    "download_link": "https://keymaster.fivem.net/asset-grants",
+    "changelog_link": "https://github.com/AlexRXWindy/alx_callsign/changelog"
 }
